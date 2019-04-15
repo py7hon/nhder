@@ -35,7 +35,7 @@
     "fs-extra": "^7.0.1",
     "https-proxy-agent": "^2.2.1",
     "is-valid-path": "^0.1.1",
-    "nhentai-api": "^2.0.4",
+    "nhentai-api": "py7hon/nhentai-api",
     "readline-sync": "^1.4.9",
     "socks-proxy-agent": "^4.0.1"
   }
